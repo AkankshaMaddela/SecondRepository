@@ -1,5 +1,12 @@
 Sample File
 Git command line
+<<<<<<< HEAD
 sdfghjkl
 
 1234567899
+=======
+
+09876543211
+>>>>>>> newfeature
+
+akanksha
